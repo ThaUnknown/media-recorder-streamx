@@ -1,0 +1,23 @@
+{
+  "name": "media-recorder-streamx",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "files": [
+    "index.js",
+    "dist/"
+  ],
+  "author": "ThaUnknown",
+  "license": "ISC",
+  "dependencies": {
+    "streamx": "^2.12.5",
+    "vite": "^3.0.9"
+  },
+  "devDependencies": {
+    "events": "^3.3.0"
+  }
+}
